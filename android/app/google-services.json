@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948517328505",
+    "project_id": "chatboss2-995bd",
+    "storage_bucket": "chatboss2-995bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948517328505:android:061343bdec8b08c011e6a8",
+        "android_client_info": {
+          "package_name": "com.chatboss.chatboss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGLBTt6kxMtpgNa0hM7u6CRJ_rlsG8ff4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
